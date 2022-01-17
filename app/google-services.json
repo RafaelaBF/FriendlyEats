@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47657405578",
+    "project_id": "friendly-eats-exercise",
+    "storage_bucket": "friendly-eats-exercise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47657405578:android:52500920d1318e6eef7173",
+        "android_client_info": {
+          "package_name": "com.google.firebase.example.fireeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47657405578-vaivse9vm0qcmkousoe9rfdjk65gj45a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxeU-DWCS5jCBLsyBGVBBPMIa31OwFWek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47657405578-vaivse9vm0qcmkousoe9rfdjk65gj45a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
