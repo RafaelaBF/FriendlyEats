@@ -1,22 +1,20 @@
-# Friendly Eats
+# Friendly Eats 🍗🍔🍕📲
 
+Exercício da plataforma [Firestore Android Codelab](https://codelabs.developers.google.com/codelabs/firestore-android) feito e modificado para aprender mais sobre Firebase!
 
+## 👩🏻‍🎓  Lições aprendidas:
 
-This is the source code that accompanies the Firestore Android Codelab:
-https://codelabs.developers.google.com/codelabs/firestore-android
+- Ler e gravar dados no Firestore a partir de um aplicativo Android
+- Ouça as alterações nos dados do Firestore em tempo real
+- Use Firebase Authentication e regras de segurança para proteger os dados do Firestore
+- Escreva consultas complexas do Firestore
 
-The codelab will walk you through developing an Android restaurant recommendation
-app powered by Cloud Firestore.
+## Ferramentas usadas 🔧
 
-<img src="docs/home.png" width="300"/>
+<img src="Img\KotlinLogo.png" alt="Kotlin logo" width="40"> <img src="Img\XML.png" alt="XML logo" width="45"> <img src="Img\JavaLogo.png" alt="Java logo" width="45"> <img src="Img\FirebaseLogo.png" alt="Firebase logo" width="33"> <img src="Img\AndroidStudioLogo.png" alt="Android Studio logo" width="40">
 
-If you don't want to do the codelab and would rather view the completed
-sample code, see the Firebase Android Quickstart repository:
-https://github.com/firebase/quickstart-android
+## 💻 Desenvolvedora:
 
-## Build Status
+- 👩🏻‍💻 RAFAELA BEZERRA DE FIGUEIREDO. <a href="https://github.com/RafaelaBF"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/RafaelaBF" width="50"></a>
 
-[![Actions Status][gh-actions-badge]][gh-actions]
-
-[gh-actions]: https://github.com/firebase/friendlyeats-android/actions
-[gh-actions-badge]: https://github.com/firebase/friendlyeats-android/workflows/Android%20CI/badge.svg
+> Código base retirado do repositório [friendlyeats-android](https://github.com/firebase/friendlyeats-android)
